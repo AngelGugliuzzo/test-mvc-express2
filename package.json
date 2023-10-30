@@ -1,0 +1,20 @@
+{
+  "name": "test-mvc-express2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "1* cmd, todo en linea de comandos. 2* armo la carpeta                            ---> mkdir CarpetaAplicacion 3* abro la carpeta                            ---> cd CarpetaAplicacion 4* dentro de la carpeta, corro el comando     ---> npm init -y 5* sigo dentro de la carpeta, corro el comando--->npm install express ejs typescript ts-node @types/  express @types/node esta ultima linea, instala express con la pantilla ejs y crea los typesscript 6* code. esta ultima ya instacia visualdev",
+  "dependencies": {
+    "@types/express": "^4.17.20",
+    "@types/node": "^20.8.9",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
